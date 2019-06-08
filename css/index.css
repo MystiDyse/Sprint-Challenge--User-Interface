@@ -203,3 +203,52 @@ footer nav a {
 .headerimg{
     margin-bottom: 30px;
 }
+
+/* About page */
+.header2{
+    border-bottom: dashed 1px black;
+    margin-bottom: 20px;
+}
+.About{
+    margin: 20px 20px;
+}
+.main-content2{
+    display:flex;
+    flex-flow: row wrap;
+    justify-content: space-around;
+}
+.strategy{
+    width:370px;
+    border-bottom: dashed 1px black;
+    margin-bottom: 40px;
+}
+.howwework{
+    width:370px;
+    border-bottom: dashed 1px black;
+    margin-bottom: 40px;
+}
+.placeswework{
+    width:370px;
+    border-bottom: dashed 1px black;
+    margin-bottom: 40px;
+}
+.collaboration{
+    width:370px;
+    border-bottom: dashed 1px black;
+    margin-bottom: 40px;
+}
+.bottom-content2{
+    margin-bottom: 40px;
+    margin-left: 20px;
+    margin-right: 20px;
+}
+button{
+    background: white;
+    vertical-align: top;
+    margin: 16px 0px;
+    padding: 8px 0px;
+    border: 2px solid black;
+    cursor: pointer;
+    width: 99px;
+    border-radius: 8px;
+}
