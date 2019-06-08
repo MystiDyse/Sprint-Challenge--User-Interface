@@ -178,3 +178,28 @@ footer nav a {
 .middle-content .boxes .box.box10{
     background: dodgerblue;
 }
+/* Header */
+/* Navigation */
+.navigation{
+    display:flex;
+    margin:20px 20px 40px 0px;
+    flex-direction: row;
+    align-items: baseline;
+    justify-content: flex-start;
+}
+.navigation .navlinks{
+    display:flex;
+    width: 600px;
+    justify-content: space-between;
+    margin-left:30px;
+    margin-right:30px;
+}
+.navigation .navlinks a{
+    color: black;
+    font-size: 14px;
+    text-decoration: none;
+}
+/* header img */
+.headerimg{
+    margin-bottom: 30px;
+}
